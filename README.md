@@ -1,13 +1,23 @@
 # 💫 About Me:
-Passionate about leveraging cutting-edge technologies to drive innovation and solve real-world challenges, I am an experienced Software Engineer and Full-Stack Developer with a fervent interest in cloud computing and data engineering. My journey in computer science and software engineering has been fueled by a desire to create impactful solutions that make a difference.
+I build AI systems that operate in the real world.
 
-Throughout my career, I have honed my skills in developing web applications, implementing data pipelines, and crafting cloud-based solutions. From transforming data science projects into production web apps at iNeuron.ai to co-founding Manentia.ai and leading the development of an AI platform for medical imaging analysis, I have consistently pushed boundaries to deliver high-impact solutions.
+My work has spanned real-time voice AI, embedded systems, cloud infrastructure, data engineering, and production AI platforms across healthcare and consumer products.
 
-Notable achievements include being awarded a grant from the Government of India for co-founding a medical imaging platform, improving data accuracy by 70% through ETL pipelines and GIS mapping, and reducing image annotation time by 80% with a custom desktop GUI app.
+I was the founding engineer behind a medical imaging platform at Manentia AI that scaled across 75+ hospitals in India, the UK, Africa, and Asia-Pacific. I led development of the core platform architecture, cloud infrastructure, and deployment systems, and helped secure early government grants and partnerships.
 
-Driven by a passion for continuous learning and innovation, my goal is to further enhance my expertise in emerging technologies such as full-stack development, data engineering, and cloud architecture. With a strong foundation in full-stack development, cloud computing, and data engineering, I am well-equipped to drive digital transformation and deliver solutions that boost operational efficiency, enable data-driven decision-making, and unlock new business opportunities.
+Currently, I’m building SkyBloom, a voice-enabled AI companion platform for children focused on routines, emotional engagement, and interactive experiences through real-time conversational AI and embedded hardware systems.
 
-My journey has been marked by successfully managing multiple production-ready projects simultaneously, balancing academic and professional commitments, and consistently delivering results in high-pressure environments. I thrive on challenges and am eager to continue pushing the boundaries of what's possible in technology and innovation.
+Over the last few years, I’ve worked across:
+
+- real-time AI systems
+- distributed backend infrastructure
+- ETL/data platforms
+- cloud cost optimization
+- embedded AI devices
+- production deployment pipelines
+- AI product architecture
+
+I enjoy operating in zero-to-one environments where engineering, product thinking, and execution overlap. Most of my work involves taking ambiguous ideas, building production-ready systems quickly, and iterating directly from real-world usage.
 
 
 ## 🌐 Socials:
